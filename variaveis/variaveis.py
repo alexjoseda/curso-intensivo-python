@@ -6,3 +6,5 @@ print(Mensagen)
 
 texto = "Se você quiser encontrá os segredos do universo, pense em termos de energia, frequência e vibração."
 print(texto)
+
+print("teste git")
